@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/login"
+        android:title="login"
+        android:orderInCategory="100" />
+
+    <item
+        android:id="@+id/camera"
+        android:title="camera"
+        android:orderInCategory="200" />
+
+    <item
+        android:id="@+id/gallery"
+        android:title="gallery"
+        android:orderInCategory="300"/>
+
+    <item
+        android:id="@+id/time"
+        android:title="time"
+        android:orderInCategory="400" />
+
+    <item
+        android:id="@+id/mapView"
+        android:title="map view"
+        android:orderInCategory="500"/>
+
+</menu>
